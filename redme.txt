@@ -3,3 +3,6 @@ git status
 git   add   fileName.txt
 
 git   reset   filename.txt
+
+
+king is comeing
